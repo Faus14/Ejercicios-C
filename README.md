@@ -1,2 +1,2 @@
 # Ejercicios-C
-práctica para la materia sintaxis, cursada en 2020
+Práctica para la materia sintaxis, cursada en 2020
